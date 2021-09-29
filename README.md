@@ -2,6 +2,8 @@
 Repositório sobre Git/GitHub
 
 
-## Link úteis
+## LINKS ÚTEIS
 
 [Sintaxe básica Markdown](https://www.markdownguide.org/basic-syntax/)
+
+[Tutorial Git](https://www.w3schools.com/git/)
